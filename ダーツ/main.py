@@ -1,3 +1,5 @@
+# https://atcoder.jp/contests/joi2008ho/submissions/me
+
 from itertools import product
 from bisect import bisect
 
